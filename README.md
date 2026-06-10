@@ -1,12 +1,10 @@
-# Caesar-Cipher-
-# Day 8 - Caesar Cipher
 
+# Day 8 - Caesar Cipher
 This is my **Day 8 project** from the **100 Days of Code Python Challenge**.
 
 In this challenge, I am learning Python step by step and building **100 projects** to improve my coding skills.
 
 ## Project Name
-
 **Caesar Cipher**
 
 ## What This Project Does
