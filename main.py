@@ -1,5 +1,5 @@
 # Day 8 - Caesar Cipher
-# Angela Yu 100 Days of Code Python
+# 100 Days of Code Python3
 
 alphabet = [
     "a", "b", "c", "d", "e", "f", "g",
@@ -7,8 +7,6 @@ alphabet = [
     "o", "p", "q", "r", "s", "t", "u",
     "v", "w", "x", "y", "z"
 ]
-
-
 def caesar(original_text, shift_amount, encode_or_decode):
     output_text = ""
 
