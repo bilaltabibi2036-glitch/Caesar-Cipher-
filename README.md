@@ -13,7 +13,7 @@ This program can encrypt and decrypt text using the Caesar Cipher method.
 
 A Caesar Cipher moves letters forward or backward in the alphabet.
 
-For example, with shift `3`:
+For example, with shift `5`:
 
 ```text
 hello → khoor
